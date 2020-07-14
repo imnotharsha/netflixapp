@@ -1,3 +1,23 @@
+## Folder Tree Structure
+
+📦src
+┣ 📂components
+┃ ┣ 📜Front.css
+┃ ┣ 📜Front.js
+┃ ┣ 📜Navbar.css
+┃ ┣ 📜Navbar.js
+┃ ┣ 📜Row.css
+┃ ┗ 📜Row.js
+┣ 📂config
+┃ ┗ 📂axios
+┃ ┃ ┗ 📜axios.js
+┣ 📜App.css
+┣ 📜App.js
+┣ 📜index.css
+┣ 📜index.js
+┣ 📜requests.js
+┗ 📜serviceWorker.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
