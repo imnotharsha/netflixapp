@@ -4,23 +4,6 @@ Please click this [LINK](https://netapp-47332.web.app/) to see the app
 
 #Folder Stucture
 ![](/Capture.PNG)
-Please click this [LINK](https://netapp-47332.web.app/)
-
-├── components
-│ ├── Front.css
-│ ├── Front.js
-│ ├── Navbar.css
-│ ├── Navbar.js
-│ ├── Row.css
-│ └── Row.js
-├── config
-│ └── axios
-│ └── axios.js
-├── App.css
-├── App.js
-├── index.css
-├── index.js
-├── requests.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
