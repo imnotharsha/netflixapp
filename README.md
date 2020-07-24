@@ -1,11 +1,9 @@
 ## Folder Tree Structure
 
-<<<<<<< HEAD
 Please click this [LINK](https://netapp-47332.web.app/) to see the app
 
 #Folder Stucture
 ![](/Capture.PNG)
-=======
 Please click this [LINK](https://netapp-47332.web.app/)
 
 ├── components
@@ -23,7 +21,6 @@ Please click this [LINK](https://netapp-47332.web.app/)
 ├── index.css
 ├── index.js
 ├── requests.js
->>>>>>> 6799fbd4d05ea0eab267422c91d53e1010f05886
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
