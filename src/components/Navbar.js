@@ -1,5 +1,5 @@
 import './Navbar.css';
-import React, {useEffect, useState} from 'react';
+import React, { useEffect, useState } from 'react';
 
 function Navbar() {
   const [show, handleShow] = useState([]);
@@ -21,11 +21,13 @@ function Navbar() {
         alt='Netflix Logo'
         src='https://pmcvariety.files.wordpress.com/2020/05/netflix-logo.png?w=600'
       />
-      <img
-        className='nav_avatar'
-        alt='Netflix Avatar'
-        src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/366be133850498.56ba69ac36858.png'
-      />
+      <a href='https://github.com/imnotharsha'>
+        <img
+          className='nav_avatar'
+          alt='Netflix Avatar'
+          src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/366be133850498.56ba69ac36858.png'
+        />
+      </a>
     </div>
   );
 }
